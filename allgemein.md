@@ -1,8 +1,4 @@
 <details>
-<summary>Allgemein</summary>
-
-<blockquote> 
-<details>
 <summary>Wer nutzt die SHI-Produkte bereits?</summary>
 
 > Eine Auswahl unserer Kunden finden Sie hier.
@@ -30,7 +26,4 @@
 <summary>Sind die SHI-Produkte FIM-kompatibel?</summary>
 
 > Ja. Modulo wird für das Modellieren mit FIM-kompatiblen Referenzmodellen und Limo für FIM-kompatible Referenzdatenschemata genutzt.
-</details>
-
-</blockquote>
 </details>
