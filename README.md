@@ -7,9 +7,9 @@
 
 ## Beispiele
 
-## Nested Accordion
+### Nested Accordion
 
-### Markdown
+#### Markdown
 
 ```shell
 <details>
@@ -26,7 +26,7 @@
 </details>
 ```
 
-### Ergebnis
+#### Ergebnis
 
 <details>
 <summary>Produkte</summary>
