@@ -1,7 +1,7 @@
 <details>
 <summary>Wer nutzt die SHI-Produkte bereits?</summary>
 
-> Eine Auswahl unserer Kunden finden Sie hier.
+> Eine Auswahl unserer Kunden finden Sie [hier](https://shi-institut.de/referenzen/).
 </details>
 
 <details>
