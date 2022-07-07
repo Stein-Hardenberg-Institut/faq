@@ -1,5 +1,4 @@
-<details>
-<summary>PRIMO-Digital</summary>
+### PRIMO-Digital
 
 <details>
 <summary>Welche technischen Voraussetzungen werden für PRIMO-Digital benötigt?</summary>
@@ -43,12 +42,7 @@
 >Die Current-User können über einen Link auf SHI-Digital zugreifen. Dafür ist keine Anmeldung notwendig.
 </details>
   
-</details>
-
----
-
-<details>
-<summary>PRIMO-Koffer/Kartensatz</summary>
+### PRIMO-Koffer/Kartensatz
 
 <details>
 <summary>Können die haptischen Karten individuell angepasst werden?</summary>
@@ -60,6 +54,4 @@
 <summary>Wird je PRIMO-Koffer eine SHI-App benötigt?</summary>
 
 >Sie benötigen je Koffer eine Applizenz.
-</details>
-  
 </details>
