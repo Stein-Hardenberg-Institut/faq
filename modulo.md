@@ -1,4 +1,4 @@
-### MODULO-Digital
+##### MODULO-Digital
 
 <details>
 <summary>Welche technischen Voraussetzungen werden für MODULO-Digital benötigt?</summary>
@@ -48,7 +48,7 @@
 >Die Current-User können über einen Link auf SHI-Digital zugreifen. Dafür ist keine Anmeldung notwendig.
 </details>
 
-### MODULO-Koffer/Kartensatz
+##### MODULO-Koffer/Kartensatz
 
 <details>
 <summary>Können die haptischen Karten individuell angepasst werden?</summary>
