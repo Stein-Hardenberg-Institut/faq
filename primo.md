@@ -1,4 +1,4 @@
-### PRIMO-Digital
+##### PRIMO-Digital
 
 <details>
 <summary>Welche technischen Voraussetzungen werden für PRIMO-Digital benötigt?</summary>
@@ -42,7 +42,7 @@
 >Die Current-User können über einen Link auf SHI-Digital zugreifen. Dafür ist keine Anmeldung notwendig.
 </details>
   
-### PRIMO-Koffer/Kartensatz
+##### PRIMO-Koffer/Kartensatz
 
 <details>
 <summary>Können die haptischen Karten individuell angepasst werden?</summary>
