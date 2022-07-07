@@ -1,4 +1,4 @@
-### LIMO-Digital
+##### LIMO-Digital
 
 <details>
 <summary>Welche technischen Voraussetzungen werden für LIMO-Digital benötigt?</summary>
@@ -48,7 +48,7 @@
 >Die Current-User können über einen Link auf SHI-Digital zugreifen. Dafür ist keine Anmeldung notwendig.
 </details>
 
-### LIMO-Koffer/Kartensatz
+##### LIMO-Koffer/Kartensatz
 
 <details>
 <summary>Können die haptischen Karten individuell angepasst werden?</summary>
