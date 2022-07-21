@@ -1,4 +1,11 @@
 <details>
+<summary>Wofür wird die SHI-App benötigt?</summary>
+
+> Mithilfe der SHI-App können die physischen MODULO- und LIMO-Karten digitalisiert und in SHI-Digital überführt werden.
+ 
+</details>
+
+<details>
 <summary>Welche Schnittstellen bedient die SHI-App?</summary>
 
 > Die MODULO-App bedient BPMN 2.0 und xProzess.
