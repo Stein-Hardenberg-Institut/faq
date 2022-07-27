@@ -1,7 +1,7 @@
 <details>
 <summary>Wofür wird die SHI-App benötigt?</summary>
 
-> Mithilfe der SHI-App können die physischen MODULO- und LIMO-Karten digitalisiert und in SHI-Digital überführt werden.
+> Mithilfe der SHI-App können die physischen MODULO-, LIMO- und PRIMO-Karten digitalisiert und in SHI-Digital überführt werden.
  
 </details>
 
