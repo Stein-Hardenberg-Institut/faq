@@ -39,7 +39,7 @@
 <details>
 <summary>Welche Berechtigungen hat der Main-User in LIMO-Digital?</summary>
 
->Die Main-User könnnen die Projekte der Orgaisation verwalten und den Zugriff der Current-User überwachen.
+>Die Main-User können die Projekte der Organisation verwalten und den Zugriff der Current-User überwachen.
 </details>
   
 <details>
